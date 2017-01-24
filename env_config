@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# ENV Defines
+
+#Include simple key/value defines here to be used in bin/ scripts and Make
+DOCKER_REG='287054460789.dkr.ecr.us-east-1.amazonaws.com/polaris/'
+SERVICE_NAME='changeme'
+PORT=5200
